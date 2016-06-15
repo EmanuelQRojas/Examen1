@@ -1,0 +1,5 @@
+c:\users\emaqr_000\documents\visual studio 2015\Projects\Examen1QuirosEmanuel\Examen1QuirosEmanuel\bin\Debug\Examen1QuirosEmanuel.exe.config
+c:\users\emaqr_000\documents\visual studio 2015\Projects\Examen1QuirosEmanuel\Examen1QuirosEmanuel\bin\Debug\Examen1QuirosEmanuel.exe
+c:\users\emaqr_000\documents\visual studio 2015\Projects\Examen1QuirosEmanuel\Examen1QuirosEmanuel\bin\Debug\Examen1QuirosEmanuel.pdb
+c:\users\emaqr_000\documents\visual studio 2015\Projects\Examen1QuirosEmanuel\Examen1QuirosEmanuel\obj\Debug\Examen1QuirosEmanuel.exe
+c:\users\emaqr_000\documents\visual studio 2015\Projects\Examen1QuirosEmanuel\Examen1QuirosEmanuel\obj\Debug\Examen1QuirosEmanuel.pdb
